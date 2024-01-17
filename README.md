@@ -1,7 +1,7 @@
 # Anas Jamil 💪
 
 
-**Software Engineer Student of Ontario Tech University
+**`Software Engineer Student of Ontario Tech University
 
 I'm Anas Jamil, a Software Engineering student with five years of hands-on experience in software development. Proficient in languages such as C++, Python, and Java, I've showcased my coding skills during an impactful internship, where I contributed to operational efficiency.
 
