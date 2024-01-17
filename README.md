@@ -1,4 +1,4 @@
-# Hi I'm Anas Jamil 😁
+# Hi, I'm Anas Jamil 😁
 
 **`Software Engineer Student of Ontario Tech University`**
 
