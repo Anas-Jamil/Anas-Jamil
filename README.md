@@ -8,7 +8,7 @@ Beyond the world of code, I've made significant contributions to warehouse opera
 
 Explore my GitHub repository to delve into my coding journey, where you'll find a variety of projects reflecting my skills and dedication to the world of software engineering. I'm excited to share my work with you and welcome any collaboration or feedback. Happy coding!
 
-<a href="https://linkedin.com/in/anas jamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas jamil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anas-jamil-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas jamil" height="30" width="40" /></a>
 </p>
 
 
