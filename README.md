@@ -23,11 +23,9 @@ I completed a project for a multi-million dollar company, upgrading AI-enhanced 
 ### 📊 LeetCode Stats:
 [![LeetCode user Anas_Jamil](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAnas_Jamil&logo=leetcode&logoColor=yellow)](https://leetcode.com/Anas_Jamil/)
 
-### 🔥 Streak Stats:
-![Anas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasjamil&theme=radical)
 
 ### 💼 Top Projects:
-[![AI Email Reply](https://github-readme-stats.vercel.app/api/pin/?username=anasjamil&repo=ai-email-reply&theme=radical)](https://github.com/Anas-Jamil/EmailReplyAI)
+[![AI Email Reply](https://github-readme-stats.vercel.app/api/pin/?username=anasjamil&repo=EmailReplyAI&theme=radical)](https://github.com/Anas-Jamil/EmailReplyAI)
 [![AI Email Drafter](https://github-readme-stats.vercel.app/api/pin/?username=anasjamil&repo=ai-email-drafter&theme=radical)](https://github.com/Anas-Jamil/EmailDraftAI)
 
 Explore my [GitHub repository](https://github.com/anasjamil) to delve into my coding journey, where you'll find a variety of projects reflecting my skills and dedication to the world of software engineering. I'm excited to share my work with you and welcome any collaboration or feedback. Happy coding!
