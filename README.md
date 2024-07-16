@@ -6,7 +6,7 @@
 
 I'm Anas Jamil, a Software Engineering student with five years of hands-on experience in software development. Proficient in languages such as C++, Python, and Java, I've showcased my coding skills during an impactful internship, where I contributed to operational efficiency.
 
-Completing many projects on my journey to Software Engineering. Such as a project for a multi-million dollar company, upgrading AI-enhanced facial recognition entry systems with automated access from anywhere and anytime for faster repairs. This project significantly improved the efficiency and reliability of the company's security infrastructure.
+I completed a project for a multi-million dollar company, upgrading AI-enhanced facial recognition entry systems with automated access from anywhere and anytime for faster repairs. This project significantly improved the efficiency and reliability of the company's security infrastructure.
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-jamil-/)
@@ -20,8 +20,8 @@ Completing many projects on my journey to Software Engineering. Such as a projec
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats:
-![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasjamil&show_icons=true&theme=radical)
+### 📊 LeetCode Stats:
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Anas_Jamil)
 
 ### 🔥 Streak Stats:
 ![Anas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasjamil&theme=radical)
