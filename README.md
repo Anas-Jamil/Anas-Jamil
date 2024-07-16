@@ -25,7 +25,7 @@ I completed a project for a multi-million dollar company, upgrading AI-enhanced 
 
 
 ### 💼 Top Projects:
-[![AI Email Reply](https://github-readme-stats.vercel.app/api/pin/?username=anasjamil&repo=EmailReplyAI&theme=radical)](https://github.com/Anas-Jamil/EmailReplyAI)
+[![AI Email Reply](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anasjamil&&show_icons=true&theme=dark)
 [![AI Email Drafter](https://github-readme-stats.vercel.app/api/pin/?username=anasjamil&repo=ai-email-drafter&theme=radical)](https://github.com/Anas-Jamil/EmailDraftAI)
 
 Explore my [GitHub repository](https://github.com/anasjamil) to delve into my coding journey, where you'll find a variety of projects reflecting my skills and dedication to the world of software engineering. I'm excited to share my work with you and welcome any collaboration or feedback. Happy coding!
