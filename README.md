@@ -21,7 +21,7 @@ I completed a project for a multi-million dollar company, upgrading AI-enhanced 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 LeetCode Stats:
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Anas_Jamil)
+![LeetCode Stats](https://leetcode-badge-showcase.netlify.app/api/Anas_Jamil)
 
 ### 🔥 Streak Stats:
 ![Anas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasjamil&theme=radical)
