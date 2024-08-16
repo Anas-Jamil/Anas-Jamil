@@ -28,5 +28,6 @@ I completed a project for a multi-million dollar company, upgrading AI-enhanced 
 ### 💼 Top Projects:
 - [AI Email Reply](https://github.com/Anas-Jamil/EmailReplyAI)
 - [AI Email Drafter](https://github.com/Anas-Jamil/EmailDraftAI)
+- [File Organizer](https://github.com/Anas-Jamil/File-Organizer-)
 
 Explore my [GitHub repository](https://github.com/anasjamil) to delve into my coding journey, where you'll find a variety of projects reflecting my skills and dedication to the world of software engineering. I'm excited to share my work with you and welcome any collaboration or feedback. Happy coding!
