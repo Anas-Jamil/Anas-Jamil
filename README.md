@@ -26,9 +26,10 @@ I completed a project for a multi-million dollar company, upgrading AI-enhanced 
 [![LeetCode user Anas_Jamil](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAnas_Jamil&logo=leetcode&logoColor=yellow)](https://leetcode.com/Anas_Jamil/)
 
 ### 💼 Top Projects:
+- [Book Trail Full Stack](https://github.com/Anas-Jamil/BookTrail)
 - [AI Email Reply](https://github.com/Anas-Jamil/EmailReplyAI)
 - [AI Email Drafter](https://github.com/Anas-Jamil/EmailDraftAI)
-- [BookTrail](https://github.com/Anas-Jamil/BookTracker)
+- [Book Tracker](https://github.com/Anas-Jamil/BookTracker)
 - [File Organizer](https://github.com/Anas-Jamil/File-Organizer-)
 
 Explore my [GitHub repository](https://github.com/anasjamil) to delve into my coding journey, where you'll find a variety of projects reflecting my skills and dedication to the world of software engineering. I'm excited to share my work with you and welcome any collaboration or feedback. Happy coding!
