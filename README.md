@@ -10,11 +10,10 @@ Welcome to my GitHub profile! I’m a passionate software engineering student wi
 - 💻 Currently studying **Software Engineering** at Ontario Tech University, where I'm diving deep into everything from data structures to software architecture.
 - 🌱 Continuously learning and honing my skills in **full-stack development**, with experience in **Next.js**, **TypeScript**, **React**, **Python**, **C++**, and **PostgreSQL**.
 - 🛠️ I enjoy building **web apps** and **utility projects**, recently focusing on a couple of exciting full-stack applications.
-- 
+
 ### Current Projects
 - **FitLife**: A full-stack fitness app to help users set and track fitness goals, log workouts, and manage their fitness journey in an organized way.
-- **BookTrail**: A full-stack book-tracking application, designed to help book lovers manage their personal collections and track their reading goals (check out [BookTrail on GitHub](https://github.com/Anas-Jamil/BookTrail)).
-- **EmailReplyAI**: An AI-driven tool to generate email replies based on past conversations, saving time and ensuring consistent responses (explore [EmailReplyAI](https://github.com/Anas-Jamil/EmailReplyAI)).
+- **EcoSense**: A fully scaled app to help people around the world reduce their carbon footprint, working towards a cleaner and better tommorow!
 
 ### My Values and Approach
 I believe in writing clean, maintainable code and am always open to feedback. Each project brings new challenges, whether it's learning a new tech stack, optimizing code, or diving into cloud services like AWS. I’m a strong advocate for organized, modular code structures and enjoy collaborating on teams that foster learning and innovation.
