@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anasjamil&color=brightgreen)
 
-I'm Anas Jamil, a Software Engineering student with five years of hands-on experience in software development. Proficient in languages such as Python, Java, C++, React, JavaScript, and others, I've showcased my coding skills during an impactful internship, where I contributed to operational efficiency.
+I'm Anas Jamil, a Software Engineering student with five years of hands-on experience in software development. Proficient in languages such as Python, Java, C++, Typescript, JavaScript, and others, I've showcased my coding skills during an impactful internship, where I contributed to operational efficiency.
 
 I completed a project for a multi-million dollar company, upgrading AI-enhanced facial recognition entry systems with automated access from anywhere and anytime for faster repairs. This project significantly improved the efficiency and reliability of the company's security infrastructure.
 
