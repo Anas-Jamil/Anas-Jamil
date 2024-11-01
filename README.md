@@ -4,12 +4,26 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anasjamil&color=brightgreen)
 
-I'm Anas Jamil, a Software Engineering student with five years of hands-on experience in software development. Proficient in languages such as Python, Java, C++, Typescript, JavaScript, and others, I've showcased my coding skills during an impactful internship, where I contributed to operational efficiency.
+Welcome to my GitHub profile! I’m a passionate software engineering student with a love for building projects that solve real problems and help me grow as a developer.
 
-I completed a project for a multi-million dollar company, upgrading AI-enhanced facial recognition entry systems with automated access from anywhere and anytime for faster repairs. This project significantly improved the efficiency and reliability of the company's security infrastructure.
+### A Bit About Me
+- 💻 Currently studying **Software Engineering** at Ontario Tech University, where I'm diving deep into everything from data structures to software architecture.
+- 🌱 Continuously learning and honing my skills in **full-stack development**, with experience in **Next.js**, **TypeScript**, **React**, **Python**, **C++**, and **PostgreSQL**.
+- 🛠️ I enjoy building **web apps** and **utility projects**, recently focusing on a couple of exciting full-stack applications.
+- 
+### Current Projects
+- **FitLife**: A full-stack fitness app to help users set and track fitness goals, log workouts, and manage their fitness journey in an organized way.
+- **BookTrail**: A full-stack book-tracking application, designed to help book lovers manage their personal collections and track their reading goals (check out [BookTrail on GitHub](https://github.com/Anas-Jamil/BookTrail)).
+- **EmailReplyAI**: An AI-driven tool to generate email replies based on past conversations, saving time and ensuring consistent responses (explore [EmailReplyAI](https://github.com/Anas-Jamil/EmailReplyAI)).
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-jamil-/)
+### My Values and Approach
+I believe in writing clean, maintainable code and am always open to feedback. Each project brings new challenges, whether it's learning a new tech stack, optimizing code, or diving into cloud services like AWS. I’m a strong advocate for organized, modular code structures and enjoy collaborating on teams that foster learning and innovation.
+
+### Let’s Connect!
+I enjoy connecting with others who are passionate about technology and learning. Feel free to reach out if you want to chat about software development, project ideas, or anything tech-related.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/anas-jamil-) 🌐
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasjamil)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anas_Jamil/)
 
