@@ -22,7 +22,7 @@ I believe in writing clean, maintainable code and am always open to feedback. Ea
 I enjoy connecting with others who are passionate about technology and learning. Feel free to reach out if you want to chat about software development, project ideas, or anything tech-related.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-jamil-)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasjamil)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Jamil)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anas_Jamil/)
 
 ### 🛠️ Languages and Tools:
