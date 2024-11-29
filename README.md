@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a passionate software engineering student wi
 - 🛠️ I enjoy building **web apps** and **utility projects**, recently focusing on a couple of exciting full-stack applications.
 
 ### Current Projects
-- **FitLife**: A full-stack fitness app to help users set and track fitness goals, log workouts, and manage their fitness journey in an organized way.
+- **GrpCollab** Full-stack web app to help students and teams collabarte. Roles, Task Delegiation, Video/audio call, Private and group messaging, schdueling.
 - **EcoSense**: A fully scaled app to help people around the world reduce their carbon footprint, working towards a cleaner and better tommorow!
 
 ### My Values and Approach
@@ -37,6 +37,7 @@ I enjoy connecting with others who are passionate about technology and learning.
 [![LeetCode user Anas_Jamil](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAnas_Jamil&logo=leetcode&logoColor=yellow)](https://leetcode.com/Anas_Jamil/)
 
 ### 💼 Top Projects:
+- [FitLife Full Stack](https://github.com/Anas-Jamil/FitLife)
 - [Book Trail Full Stack](https://github.com/Anas-Jamil/BookTrail)
 - [AI Email Reply](https://github.com/Anas-Jamil/EmailReplyAI)
 - [AI Email Drafter](https://github.com/Anas-Jamil/EmailDraftAI)
